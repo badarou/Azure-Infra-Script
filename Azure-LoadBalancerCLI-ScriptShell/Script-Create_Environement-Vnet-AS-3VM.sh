@@ -1,6 +1,6 @@
 #Script Shell
 
-group=azure-load-balance-introduction
+group=azure-load-balance-RG
 az group create -g $group -l westeurope
 username=demouser
 password="demo@pass123"
